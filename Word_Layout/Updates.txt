@@ -1,2 +1,5 @@
 03/07/2023:
 Updated major, added some minor things, and cleaned up resume for a few research positions and internships with local startups
+
+07/24/2023:
+Added security clearance, Toyon stuff I worked with during 2023 summer, website updates, and other minor updates for CA applications in the JHU CS department and other internships during the Sophomore school year.
